@@ -1,31 +1,31 @@
 [
   {
-    "name": "Hào",
+    "name": "Hao",
     "age": 25,
     "email": "Hao@gmail.com",
     "phone": "1234567890",
-    "address": "Quảng Ngãi"
+    "address": "Quang Ngai"
   },
   {
-    "name": "Cường",
+    "name": "Cuong",
     "age": 19,
     "email": "Cuong@gmail.com",
     "phone": "0987654321",
-    "address": "Quảng Ngãi"
+    "address": "Quang Ngai"
   },
   {
     "name": "Anh",
     "age": 23,
     "email": "anh@gmail.com",
     "phone": "0323232321",
-    "address": "TP.Hồ Chí Minh"
+    "address": "TP.Ho Chi Minh"
   },
   {
-    "name": "Thắng",
+    "name": "Thang",
     "age": 20,
     "email": "thang@gmail.com",
     "phone": "0932343321",
-    "address": "Thuận Phước"
+    "address": "TP.Ho Chi Minh"
   }
   
 ]
