@@ -1,0 +1,17 @@
+[
+  {
+    "name": "John",
+    "age": 25,
+    "email": "john@gmail.com",
+    "phone": "1234567890",
+    "address": "123 Main St, Anytown, USA"
+  },
+  {
+    "name": "Jane",
+    "age": 30,
+    "email": "jane@gmail.com",
+    "phone": "0987654321",
+    "address": "456 Park Ave, Anytown, USA"
+  },
+
+]
